@@ -46,6 +46,8 @@
     "@nocobase/plugin-mock-collections": "1.3.0-alpha",
     "@nocobase/plugin-multi-app-manager": "1.3.0-alpha",
     "@nocobase/plugin-multi-app-share-collection": "1.3.0-alpha",
+    "@nocobase/plugin-notification-mail": "1.3.0-alpha",
+    "@nocobase/plugin-notification-manager": "1.3.0-alpha",
     "@nocobase/plugin-snapshot-field": "1.3.0-alpha",
     "@nocobase/plugin-system-settings": "1.3.0-alpha",
     "@nocobase/plugin-theme-editor": "1.3.0-alpha",
