@@ -7,7 +7,7 @@
   "devDependencies": {
     "@types/nodemailer": "6.4.4",
     "nodemailer": "^6.6.1",
-    "nodemailer-mock": "^1.5.11"
+    "nodemailer-mock": "^2.0.0"
   },
   "peerDependencies": {
     "@nocobase/client": "1.x",
