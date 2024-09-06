@@ -10,7 +10,7 @@
   "homepage": "https://docs.nocobase.com/handbook/verification",
   "homepage.zh-CN": "https://docs-cn.nocobase.com/handbook/verification",
   "devDependencies": {
-    "@alicloud/dysmsapi20170525": "2.0.17",
+    "@alicloud/dysmsapi20170525": "3.0.0",
     "@alicloud/openapi-client": "0.4.1",
     "@alicloud/tea-util": "1.4.4",
     "@formily/antd-v5": "1.x",
