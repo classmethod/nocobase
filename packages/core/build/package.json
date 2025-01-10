@@ -21,7 +21,7 @@
     "@vercel/ncc": "0.36.1",
     "chalk": "2.4.2",
     "esbuild-register": "^3.4.2",
-    "fast-glob": "^3.3.1",
+    "fast-glob": "^3.3.3",
     "gulp": "4.0.2",
     "gulp-typescript": "6.0.0-alpha.1",
     "tar": "^6.2.0",
