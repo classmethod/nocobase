@@ -15,7 +15,7 @@
     "@nocobase/test": "1.x"
   },
   "devDependencies": {
-    "@ant-design/icons": "5.x",
+    "@ant-design/icons": "6.0.0",
     "@formily/antd-v5": "1.x",
     "@formily/core": "2.x",
     "@formily/react": "2.x",
