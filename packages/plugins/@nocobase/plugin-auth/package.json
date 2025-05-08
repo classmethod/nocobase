@@ -5,7 +5,7 @@
   "homepage": "https://docs.nocobase.com/handbook/auth",
   "homepage.zh-CN": "https://docs-cn.nocobase.com/handbook/auth",
   "devDependencies": {
-    "@ant-design/icons": "5.x",
+    "@ant-design/icons": "6.0.0",
     "@formily/react": "2.x",
     "@formily/shared": "2.x",
     "@types/cron": "^2.0.1",
