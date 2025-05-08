@@ -10,7 +10,7 @@
   "homepage": "https://docs.nocobase.com/handbook/workflow-parallel",
   "homepage.zh-CN": "https://docs-cn.nocobase.com/handbook/workflow-parallel",
   "devDependencies": {
-    "@ant-design/icons": "5.x",
+    "@ant-design/icons": "6.0.0",
     "antd": "5.x",
     "react": "18.x",
     "react-i18next": "^11.15.1"
