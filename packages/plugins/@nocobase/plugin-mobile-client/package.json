@@ -10,7 +10,7 @@
   "description": "Provides the ability to configure mobile pages.",
   "description.zh-CN": "提供移动端页面配置的能力。",
   "devDependencies": {
-    "@ant-design/icons": "5.x",
+    "@ant-design/icons": "6.0.0",
     "@formily/antd-v5": "1.x",
     "@formily/react": "2.x",
     "@formily/shared": "2.x",
