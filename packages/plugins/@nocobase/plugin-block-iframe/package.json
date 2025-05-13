@@ -10,7 +10,7 @@
   "homepage": "https://docs.nocobase.com/handbook/block-iframe",
   "homepage.zh-CN": "https://docs-cn.nocobase.com/handbook/block-iframe",
   "devDependencies": {
-    "@ant-design/icons": "5.x",
+    "@ant-design/icons": "6.0.0",
     "@formily/react": "2.x",
     "@formily/shared": "2.x",
     "antd": "5.x",
