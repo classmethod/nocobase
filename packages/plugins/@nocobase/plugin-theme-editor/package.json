@@ -10,7 +10,7 @@
   "description.zh-CN": "自定义 UI 的颜色、尺寸等，并将结果保存为主题，可在多个主题间切换。",
   "devDependencies": {
     "@ant-design/cssinjs": "^1.11.1",
-    "@ant-design/icons": "5.x",
+    "@ant-design/icons": "6.0.0",
     "@arvinxu/layout-kit": "^1",
     "@ctrl/tinycolor": "^3.6.0",
     "@emotion/css": "^11.11.2",
