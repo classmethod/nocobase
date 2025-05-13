@@ -10,7 +10,7 @@
   "homepage": "https://docs.nocobase.com/handbook/graph-collection-manager",
   "homepage.zh-CN": "https://docs-cn.nocobase.com/handbook/graph-collection-manager",
   "devDependencies": {
-    "@ant-design/icons": "5.x",
+    "@ant-design/icons": "6.0.0",
     "@antv/x6": "^2.0.0",
     "@antv/x6-plugin-dnd": "^2.0.0",
     "@antv/x6-plugin-export": "^2.0.0",
