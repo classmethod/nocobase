@@ -23,7 +23,7 @@
     "classnames": "2.x",
     "react": "18.x",
     "react-dom": "18.x",
-    "react-i18next": "11.x",
+    "react-i18next": "15.5.3",
     "react-router-dom": "6.x"
   },
   "peerDependencies": {
