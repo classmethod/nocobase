@@ -25,7 +25,7 @@
     "antd": "5.x",
     "react": "18.x",
     "react-dom": "18.x",
-    "react-i18next": "^11.15.1",
+    "react-i18next": "^15.5.3",
     "react-router-dom": "^6.11.2"
   },
   "peerDependencies": {
