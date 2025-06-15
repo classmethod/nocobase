@@ -15,7 +15,7 @@
     "@formily/react": "2.x",
     "@formily/reactive": "2.x",
     "react": "^18.2.0",
-    "react-i18next": "^11.15.1"
+    "react-i18next": "^15.5.3"
   },
   "peerDependencies": {
     "@nocobase/client": "1.x",
