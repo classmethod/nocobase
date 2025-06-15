@@ -17,7 +17,7 @@
     "antd": "5.x",
     "rc-tree-select": "5.20.0",
     "react": "18.x",
-    "react-i18next": "^11.15.1"
+    "react-i18next": "^15.5.3"
   },
   "peerDependencies": {
     "@nocobase/client": "1.x",
