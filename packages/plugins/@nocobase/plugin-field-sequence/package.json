@@ -17,7 +17,7 @@
     "classnames": "^2.3.1",
     "cron-parser": "4.4.0",
     "react": "18.x",
-    "react-i18next": "^11.15.1",
+    "react-i18next": "^15.5.3",
     "react-js-cron": "^3.1.0"
   },
   "peerDependencies": {
