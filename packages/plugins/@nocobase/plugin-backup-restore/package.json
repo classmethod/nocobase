@@ -18,7 +18,7 @@
     "@koa/multer": "^3.0.2",
     "@types/archiver": "^5.3.1",
     "antd": "5.x",
-    "archiver": "^5.3.1",
+    "archiver": "^7.0.0",
     "content-disposition": "^0.5.4",
     "dayjs": "^1.11.8",
     "decompress": "^4.2.1",
