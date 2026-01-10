@@ -15,7 +15,7 @@
     "@ant-design/icons": "^5.x",
     "antd": "^5.x",
     "html5-qrcode": "^2.3.8",
-    "react-router-dom": "^6.x"
+    "react-router-dom": "^7.0.0"
   },
   "keywords": [
     "Blocks"
